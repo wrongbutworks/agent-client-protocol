@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.4.1](https://github.com/agentclientprotocol/agent-client-protocol/compare/v1.4.0...v1.4.1) - 2026-07-08
+
+### Fixed
+
+- *(schema)* remove enum discriminators from invalid schemas ([#1612](https://github.com/agentclientprotocol/agent-client-protocol/pull/1612))
+
 ## [1.4.0](https://github.com/agentclientprotocol/agent-client-protocol/compare/v1.3.0...v1.4.0) - 2026-07-06
 
 ### Added
